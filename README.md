@@ -1,29 +1,20 @@
-# vue-ts-cms
+# 个人财务管理系统
 
-## Project setup
+## 下载压缩包或者克隆
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 跑代码
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 构建
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
-
-```
-npm run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
